@@ -1,0 +1,6 @@
+{
+  "name": "BehaviorBan Web Manager",
+  "description": "Web management interface for behaviorban.sh - configure scoring weights, sliding window, whitelist, ban thresholds, and UFW automation rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
